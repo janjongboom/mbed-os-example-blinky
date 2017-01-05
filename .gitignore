@@ -2,3 +2,5 @@
 .mbed
 projectfiles
 *.py*
+mbed_config.h
+
